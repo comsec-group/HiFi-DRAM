@@ -1,7 +1,7 @@
 # HiFi-DRAM: Enabling High-fidelity DRAM Research by Uncovering Sense Amplifiers with IC Imaging
 ## Supplementary material
 
-This repository provides supplementary material for our paper _[HiFi-DRAM: Enabling High-fidelity DRAM Research by Uncovering Sense Amplifiers with IC Imaging](https://comsec.ethz.ch/wp-content/files/hifi\_isca24.pdf)_ that is to appear in the 51st IEEE/ACM International Symposium on Computer Architecture (ISCA 2024).
+This repository provides supplementary material for our paper _[HiFi-DRAM: Enabling High-fidelity DRAM Research by Uncovering Sense Amplifiers with IC Imaging](https://comsec.ethz.ch/research/dram/hifi-dram/)_ that is to appear in the 51st IEEE/ACM International Symposium on Computer Architecture (ISCA 2024).
 
 We provide:
 1. the full images of the layers extracted from the DRAM chips  (./Layer images)
